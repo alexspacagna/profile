@@ -1,0 +1,156 @@
+ @import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway&display=swap');
+ h1{
+  font-family: Raleway;
+  font-size:38px;
+  color: white;
+  text-align: justify, center;
+   }
+
+   h2{
+  font-family: Raleway;
+  font-size:24px;
+  color: white;
+  text-align: justify, center;
+   }
+   h1 {
+    hoover
+   }
+
+   .la_mia_storia_titolo{
+     font-family: Raleway;
+  font-size:24px;
+  color: #1d2228;
+  text-align: justify, center;
+   }
+   }
+
+  p{
+    font-family: Open sans;
+    font-size:18px;
+    color: white;
+    text-align: justify, center;
+  }
+  .chi_sono_testo{
+    font-family: Open sans;
+    font-size:18px;
+    color: white;
+    text-align: justify, center;
+  }
+
+  .la_mia_storia_testo{
+    font-family: Open sans;
+    font-size:18px;
+    color: 12228;
+    text-align: justify, center;
+  }
+
+   li{
+    font-family: Open sans;
+    font-size:18px;
+    color: #283655;
+    text-align: justify, center;
+    display: inline-block;
+    padding: 0px;
+    text-decoration:none;
+  }
+
+  button{
+  background-color: #fb8122; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  }
+
+  button:hover {
+    background-color: black;
+  }
+img{
+  text-align: center;
+  border-radius: 50%;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+.text-center {
+  text-align: center;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
+
+
+.chi_sono{
+background: #1d2228;                         /* White background */
+padding: 30px;                             /* Internal space */
+border-radius: 4px;                        /* Small radius */
+box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+margin: 24px auto;
+text-align: center;
+width: 800px;
+}
+
+.la_mia_storia{
+background: #e1e2e2;                         /* White background */
+padding: 30px;                             /* Internal space */
+border-radius: 4px;                        /* Small radius */
+box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+margin: 24px auto;
+text-align: center;
+width: 800px;
+}
+
+.cosa_posso_fare_per_te{
+background: #1d2228;                         /* White background */
+padding: 30px;                             /* Internal space */
+border-radius: 4px;                        /* Small radius */
+box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+margin: 24px auto;
+text-align: center;
+width: 800px;
+}
+
+.contattami{
+  background: #1d2228;                         /* White background */
+padding: 30px;                             /* Internal space */
+border-radius: 4px;                        /* Small radius */
+box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+margin: 24px auto;
+text-align: center;
+width: 800px;
+}
+
+
+.div_icon{
+  display: inline-block;
+  padding: 0
+
+}
+.fab{
+font-size: 36px;
+margin: 0 34px;
+color: white ;
+}
+.foolder{
+  font-size: 8;
+  display: inline-block;
+  color: white;
+  font-family: Open sans;
+
+}
+
+.list_in_line{
+background: #1d2228;                         /* White background */
+padding: 30px;                             /* Internal space */
+border-radius: 4px;                        /* Small radius */
+margin: 24px auto;
+text-align: center;
+width: 800px;
+padding-left: 0px;
+}
